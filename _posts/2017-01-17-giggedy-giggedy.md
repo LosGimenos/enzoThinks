@@ -21,7 +21,7 @@ I've definitely come around on it since I got heavy into React. Gonna be some st
 on video delivery. Haven't messed around with that in a minute.
 
 ---
-## UPDATE
+<h2>UPDATE</h2>
 
 Meetup was great. The #CodeDrivenNYC folks throw a great shindig. Couple of things:
 Was great to see the 1st Dibs crew talk about Webpack and their decision to use it
