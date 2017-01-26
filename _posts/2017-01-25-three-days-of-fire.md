@@ -30,3 +30,8 @@ I'm at the Crowded.com meetup tonight. The todo made about it is a little off-pu
 but they have some legit speakers there tonight. Plus, it's free pizza. FREE. PIZZA.
 BTW, where's the story-arc of Teenage Mutant Ninja Turtles where they all start going to
 meetups for the free pizza?
+
+<h2>UPDATE</h2>
+---
+Crowded meetup was fabu! Always great to see hiring folks connect with the dev community.
+Oh...and sometimes 'pizza' means 'sandwiches'.   
