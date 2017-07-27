@@ -18,7 +18,7 @@ email: larryhernanjr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hey folks! I'm the son of immigrants. I've toured a Harley and
   went to school on a Modern Dance scholarship. Life is pretty cool.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/enzoThinks" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: beantastico
 github_username:  LosGimenos
