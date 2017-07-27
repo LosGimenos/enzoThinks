@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Central Park West on the last night of Obama"
-date:   2017-01-19 20::22 -0500
+date:   2017-01-19 20:00:22 -0500
 categories: jekyll update
 ---
 

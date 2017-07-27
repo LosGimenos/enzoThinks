@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "three Days of Fire"
-date:   2017-01-25 17::22 -0500
+date:   2017-01-25 17:00:22 -0500
 categories: jekyll update
 ---
 

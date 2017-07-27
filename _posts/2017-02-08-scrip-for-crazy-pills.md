@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "scrip for crazy pills"
-date:   2017-02-08 17::22 -0500
+date:   2017-02-08 17:00:22 -0500
 categories: jekyll update
 ---
 

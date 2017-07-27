@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Improv for Tunes"
-date:   2017-01-18 23::22 -0500
+date:   2017-01-18 23:00:22 -0500
 categories: jekyll update
 ---
 
